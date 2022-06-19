@@ -7,7 +7,7 @@
 
 <p align="center">🌱 I’m currently learning **WEB2+1**</p>
 
- <p align="center">📝 I rarely write articles on [https://medium.com/@aviksingha2017](https://medium.com/@aviksingha2017)</p>
+ <p align="center">📝 I rarely write articles on https://medium.com/@aviksingha2017 </p>
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
