@@ -5,13 +5,9 @@
 
 <p align="center"> <a href="https://twitter.com/avik_singha" target="blank"><img src="https://img.shields.io/twitter/follow/avik_singha?logo=twitter&style=for-the-badge" alt="avik_singha" /></a> </p>
 
-<p align="center">
+<p align="center">🌱 I’m currently learning **WEB2+1**</p>
 
- 🌱 I’m currently learning **WEB2+1**
-
- 📝 I rarely write articles on [https://medium.com/@aviksingha2017](https://medium.com/@aviksingha2017)
-
-</p>
+ <p align="center">📝 I rarely write articles on [https://medium.com/@aviksingha2017](https://medium.com/@aviksingha2017)</p>
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
