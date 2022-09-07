@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/avik_singha" target="blank"><img src="https://img.shields.io/twitter/follow/avik_singha?logo=twitter&style=for-the-badge" alt="avik_singha" /></a> </p>
 
-<p align="center">🌱 I’m currently learning **WEB2+1**</p>
+<p align="center">🌱 I’m currently learning *******</p>
 
  <p align="center">📝 I rarely write articles on https://medium.com/@aviksingha2017 </p>
 <!-- ### Blogs posts -->
